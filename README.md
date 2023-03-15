@@ -46,8 +46,8 @@ Brandhive is licensed under the MIT License - see the [License File](LICENSE) fo
 A hall of fame for those who have contributed to this repo. Thanks once again for your valuable contributions. Kudos !!!
 <br>
 
-<a href="https://github.com/PiyushKalyanpy/Brandhive/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PiyushKalyanpy/Brandhive" />
+<a href="https://github.com/vedprakashnautiyal/MarkdownBlogEditor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vedprakashnautiyal/MarkdownBlogEditor" />
 </a>
 
 # Support
