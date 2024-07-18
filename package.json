@@ -1,29 +1,29 @@
 {
-  "homepage": "https://vedprakashnautiyal.github.io/MarkdownBlogEditor",
-  "name": "blogeditor",
+  "name": "markdown-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^3.0.1",
-    "ejs": "^3.1.8",
-    "express": "^4.18.2",
-    "jsdom": "^21.1.0",
-    "marker": "^0.1.2",
+    "dompurify": "^2.0.8",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsdom": "^16.2.1",
+    "marked": "^13.0.2",
     "method-override": "^3.0.0",
-    "mongoose": "^7.0.1",
-    "slugify": "^1.6.5"
+    "mongoose": "^5.13.22",
+    "psl": "^1.9.0",
+    "punycode.js": "^2.3.1",
+    "slugify": "^1.4.0",
+    "url": "^0.11.3",
+    "whatwg-url": "^14.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "nodemon": "^2.0.21"
+    "nodemon": "^3.1.4"
   }
 }
